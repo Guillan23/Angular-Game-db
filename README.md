@@ -4,7 +4,7 @@ This is an Activity for IT 331 - Application Development and Emerging Technologi
 
 By: Guillan Maurhyn B. Fajardo
 
-#UI Screenshot
+# UI Screenshot
 
 ![image](https://user-images.githubusercontent.com/102790108/179807270-d765ede3-4ba2-4928-af3c-b589c532afb5.png)
 
